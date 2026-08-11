@@ -7,11 +7,8 @@
 ---
 
 ## 🌐 Connect
-
+📫 Reach me at sushmaacharya984@gmail.com
 <p align="center">
-  <a href="mailto:sushmaacharya984@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/sushma-acharya-0a30b42b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
