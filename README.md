@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Sushma
 
-<!--
-**suslabok/suslabok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Undergraduate at Kathmandu University**
 
-Here are some ideas to get you started:
+💻 Building with modern web technologies and creative digital experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:sushmaacharya984@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushma-acharya-0a30b42b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/suslabok">
+    <img src="https://img.shields.io/badge/GitHub-suslabok-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,cs,html,css,bootstrap,react,nextjs,tailwind,django,fastapi,postgres,mysql,git,github,docker,vscode,figma,unity,threejs" />
+</p>
